@@ -1,0 +1,30 @@
+{
+  "name": "nodejs-pure-node-webserver",
+  "version": "1.0.0",
+  "description": "Node.js crash course - pure node webserver",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mi4en/nodejs-pure-node-webserver.git"
+  },
+  "keywords": [
+    "node",
+    "node.js",
+    "webserver"
+  ],
+  "author": "Mario Nikolov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mi4en/nodejs-pure-node-webserver/issues"
+  },
+  "homepage": "https://github.com/mi4en/nodejs-pure-node-webserver#readme",
+  "dependencies": {
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
